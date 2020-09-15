@@ -1,0 +1,7 @@
+D:\projects\osu-random-skin-challenge\osu-random-skin-challenge\bin\Debug\osu-random-skin-challenge.exe.config
+D:\projects\osu-random-skin-challenge\osu-random-skin-challenge\bin\Debug\osu-random-skin-challenge.exe
+D:\projects\osu-random-skin-challenge\osu-random-skin-challenge\bin\Debug\osu-random-skin-challenge.pdb
+D:\projects\osu-random-skin-challenge\osu-random-skin-challenge\obj\Debug\osu-random-skin-challenge.csprojAssemblyReference.cache
+D:\projects\osu-random-skin-challenge\osu-random-skin-challenge\obj\Debug\osu-random-skin-challenge.csproj.CoreCompileInputs.cache
+D:\projects\osu-random-skin-challenge\osu-random-skin-challenge\obj\Debug\osu-random-skin-challenge.exe
+D:\projects\osu-random-skin-challenge\osu-random-skin-challenge\obj\Debug\osu-random-skin-challenge.pdb
